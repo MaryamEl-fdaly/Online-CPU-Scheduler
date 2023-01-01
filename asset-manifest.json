@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Online-CPU-Scheduler/static/css/main.824eb6e5.css",
-    "main.js": "/Online-CPU-Scheduler/static/js/main.87eed655.js",
+    "main.js": "/Online-CPU-Scheduler/static/js/main.593cd4f8.js",
     "index.html": "/Online-CPU-Scheduler/index.html",
     "main.824eb6e5.css.map": "/Online-CPU-Scheduler/static/css/main.824eb6e5.css.map",
-    "main.87eed655.js.map": "/Online-CPU-Scheduler/static/js/main.87eed655.js.map"
+    "main.593cd4f8.js.map": "/Online-CPU-Scheduler/static/js/main.593cd4f8.js.map"
   },
   "entrypoints": [
     "static/css/main.824eb6e5.css",
-    "static/js/main.87eed655.js"
+    "static/js/main.593cd4f8.js"
   ]
 }
